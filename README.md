@@ -18,8 +18,8 @@ Test: Show how to add a web browser
 # Where are jsp files? HERE!
 spring.mvc.view.prefix=/WEB-INF/
 # Data Persistence
+#<!-- after the '/' is <<WHATEVER_YOUR_SCHEMA_NAME>> -->
 spring.datasource.url=jdbc:mysql://localhost:3306/
-<!-- after the '/' is <<WHATEVER_YOUR_SCHEMA_NAME>> -->
 spring.datasource.username=root
 spring.datasource.password=rootroot
 spring.jpa.hibernate.ddl-auto=update
