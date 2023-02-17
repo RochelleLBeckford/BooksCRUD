@@ -3,7 +3,7 @@
 <!-- - this is a bullet -->
 
 <!-- ## this is a sub heading -->
-### Create an updated Books Demo with Session/CRUD
+### Create a Books CRUD with Create and Read Functionality
 
 
 <!-- 
